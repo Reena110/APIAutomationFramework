@@ -1,4 +1,4 @@
-package Sample;
+package Tests.Crud.e2e_Integration.Sample;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
