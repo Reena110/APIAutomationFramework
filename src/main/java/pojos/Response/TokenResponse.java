@@ -1,4 +1,4 @@
-package Pojos.Response;
+package pojos.Response;
 
 
 import com.google.gson.annotations.Expose;

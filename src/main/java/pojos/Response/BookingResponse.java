@@ -1,6 +1,6 @@
-package Pojos.Response;
+package pojos.Response;
 
-import Pojos.Request.Booking;
+import pojos.Request.Booking;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
